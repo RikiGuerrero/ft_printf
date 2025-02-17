@@ -4,7 +4,7 @@
 
 ## 📌 Descripción
 
-El proyecto **ft_printf** tiene como objetivo crear una implementación personalizada de la función `printf` en C. A través de este proyecto, se profundiza en el formato de salida, la gestión de parámetros variables y la conversión de tipos. Este desafío es fundamental para comprender mejor la manipulación de cadenas y la salida formateada en C, brindando una oportunidad para reforzar conocimientos sobre el uso de funciones variádicas y la optimización del procesamiento de datos en el lenguaje C.
+**ft_printf** es un proyecto de la escuela **42** tiene como objetivo crear una implementación personalizada de la función `printf` en C. A través de este proyecto, se profundiza en el formato de salida, la gestión de parámetros variables y la conversión de tipos. Este desafío es fundamental para comprender mejor la manipulación de cadenas y la salida formateada en C, brindando una oportunidad para reforzar conocimientos sobre el uso de funciones variádicas y la optimización del procesamiento de datos en el lenguaje C.
 
 ## 🛠 Lenguajes y Tecnologías
 
